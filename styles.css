@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+nav ul {
+    display: flex;
+    gap: 20px;
+    padding: 0;
+}
+
+nav li {
+    list-style: none;
+}
+
+img {
+    width: 200px;
+    border-radius: 8px;
+    margin: 15px 0;
+}
